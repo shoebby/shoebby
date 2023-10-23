@@ -4,11 +4,6 @@
   <div align="center">
     <h3>Alexandria van Eekelen (She/They/It)</h3>
     <p>
-      ℑ𝔫𝔱𝔢𝔯𝔞𝔠𝔱𝔦𝔳𝔢 𝔑𝔞𝔯𝔯𝔞𝔱𝔦𝔳𝔢 𝔇𝔢𝔰𝔦𝔤𝔫𝔢𝔯
-      <br>
-      𝕻𝖆𝖎𝖓𝖜𝖆𝖗𝖊 𝕬𝖗𝖙𝖎𝖘𝖆𝖓
-    </p>
-    <p>
       <a href="https://alexandriavaneekelen.wixsite.com/portfolio" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-black?style=for-the-badge"/></a>
       <br>
       <a href="https://github.com/shoebby/The-Anders-Cyclopaedia" target="_blank"><img src="https://img.shields.io/badge/Current_Project:-The_Anders_Cyclopaedia-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white"/></a>

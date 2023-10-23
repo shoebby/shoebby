@@ -1,9 +1,19 @@
-### Hi there 👋
+# Alexandria van Eekelen
 
-## 𝗦𝘁𝗮𝘁𝘀
+<div align="center">
+  <p>
+    <a href="https://discord.com/users/159720314245218304">
+      <img src="https://lanyard.kyrie25.me/api/159720314245218304?idleMessage=Floating&hideBadges=true&showDisplayName=true&bg=fc7826&borderRadius=0"/>
+    </a>
+    <br>
+    - Current project: The Anders Cyclopaedia
+    <br>
+    - Software stack: Unity, FL Studio, Adobe Photoshop, Aseprite, Krita
+    <br>
+    - 
+  </p>
 
-![shoebby's github stats](https://github-readme-stats.vercel.app/api?username=shoebby&show_icons=true&theme=dracula)
-
+</div>
 <!--
 **shoebby/shoebby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

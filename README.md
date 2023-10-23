@@ -33,6 +33,7 @@
         <a href="https://anilist.co/user/shoebby/" target="_blank"/><img src="https://img.shields.io/badge/AniList-crimson?style=for-the-badge&logo=anilist&logoColor=white"/></a>
         <br>
         <a href="https://www.last.fm/user/shoebby" target="_blank"/><img src="https://img.shields.io/badge/Last.FM-crimson?style=for-the-badge&logo=last.fm&logoColor=white"/></a>
+        <a href="https://rateyourmusic.com/~shoebby" target="_blank"/><img src="https://img.shields.io/badge/RateYourMusic-crimson?style=for-the-badge&logo=rateyourmusic&logoColor=white"/></a>
         <a href="https://www.goodreads.com/user/show/79770440-shoebby" target="_blank"/><img src="https://img.shields.io/badge/Goodreads-crimson?style=for-the-badge&logo=goodreads&logoColor=white"/></a>
       <h3>Contact</h3>
         <a href=mailto:"alexandria.vaneekelen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alexandria.vaneekelen@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=black&color=black"/></a>

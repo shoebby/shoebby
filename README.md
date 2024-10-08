@@ -2,7 +2,7 @@
 <html>
 <body>
   <div align="center">
-    <h3>Alexandria van Eekelen (She/They/It)</h3>
+    <h3>Alexandria van Eekelen (She/It)</h3>
     <p>
       <a href="https://alexandriavaneekelen.wixsite.com/portfolio" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-black?style=for-the-badge"/></a>
       <br>

@@ -6,7 +6,7 @@
     <p>
       <a href="https://alexandriavaneekelen.wixsite.com/portfolio" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-black?style=for-the-badge"/></a>
       <br>
-      <a href="https://github.com/shoebby/The-Anders-Cyclopaedia" target="_blank"><img src="https://img.shields.io/badge/Current_Project:-The_Anders_Cyclopaedia-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white"/></a>
+      <a href="https://github.com/shoebby/DRAAD" target="_blank"><img src="https://img.shields.io/badge/Current_Project:-DRAAD-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white"/></a>
     </p>
     <p>
       <h3>Used Software</h3>

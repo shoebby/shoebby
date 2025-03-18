@@ -17,19 +17,6 @@
         <img src="https://img.shields.io/badge/Aseprite-skyblue?style=for-the-badge&logo=aseprite&logoColor=black"/>
         <img src="https://img.shields.io/badge/Krita-magenta?style=for-the-badge&logo=krita&logoColor=white"/>
         <img src="https://img.shields.io/badge/FL_Studio-darkgreen?style=for-the-badge&logoColor=white"/>
-      <h3>Links</h3>
-        <a href="https://shoebby.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-orange?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
-        <a href="https://shoebby.newgrounds.com/" target="_blank"><img src="https://img.shields.io/badge/Newgrounds-orange?style=for-the-badge&logo=newgrounds&logoColor=white"/></a>
-        <br>
-        <a href="https://soundcloud.com/shoebby" target="_blank"><img src="https://img.shields.io/badge/Soundcloud-orange?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
-      <h3>Media</h3>
-        <a href="https://letterboxd.com/shoebby/" target="_blank"/><img src="https://img.shields.io/badge/Letterboxd-crimson?style=for-the-badge&logo=letterboxd&logoColor=white"</a>
-        <a href="https://backloggd.com/u/shoebby/" target="_blank"/><img src="https://img.shields.io/badge/Backloggd-crimson?style=for-the-badge&logo=backloggd&logoColor=white"/></a>
-        <a href="https://anilist.co/user/shoebby/" target="_blank"/><img src="https://img.shields.io/badge/AniList-crimson?style=for-the-badge&logo=anilist&logoColor=white"/></a>
-        <br>
-        <a href="https://www.last.fm/user/shoebby" target="_blank"/><img src="https://img.shields.io/badge/Last.FM-crimson?style=for-the-badge&logo=last.fm&logoColor=white"/></a>
-        <a href="https://rateyourmusic.com/~shoebby" target="_blank"/><img src="https://img.shields.io/badge/RateYourMusic-crimson?style=for-the-badge&logo=rateyourmusic&logoColor=white"/></a>
-        <a href="https://www.goodreads.com/user/show/79770440-shoebby" target="_blank"/><img src="https://img.shields.io/badge/Goodreads-crimson?style=for-the-badge&logo=goodreads&logoColor=white"/></a>
       <h3>Contact</h3>
         <a href=mailto:"alexandria.vaneekelen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alexandria.vaneekelen@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=black&color=black"/></a>
         <a href="https://twitter.com/PAINWAREARTISAN" target="_blank"><img src="https://img.shields.io/badge/@PAINWAREARTISAN%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&labelColor=black&color=black"/></a>

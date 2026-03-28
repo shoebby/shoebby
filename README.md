@@ -8,7 +8,7 @@ my main tools consist of hand-written HTML/CSS/JS, a strained relationship with 
 I'm currently working on VisunovOS: a web-based visual novel-making fantasy OS.
 
 
-contact me at alexandria.vaneekelen@gmail.com
+contact me at alexandria@lexie.land
 
 or [@lexie.land](https://bsky.app/profile/lexie.land) on Bluesky
 

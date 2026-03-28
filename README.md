@@ -12,4 +12,6 @@ contact me at alexandria@lexie.land
 
 or [@lexie.land](https://bsky.app/profile/lexie.land) on Bluesky
 
+or [@shoebby@mastodon.social](https://mastodon.social/@shoebby) on Mastodon
+
 or shoebby on Discord
